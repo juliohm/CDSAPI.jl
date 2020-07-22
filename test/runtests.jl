@@ -1,4 +1,6 @@
 using CDSAPI
+using ZipFile, GZip, Tar
+using GRIB, NetCDF
 using Test
 
 # list of tests
